@@ -1,7 +1,7 @@
 # Classic and simple falling sand game.
 
 ### Controls:
-**LEFT_MOUSE_BUTTON** - place particles <br>
+**LEFT_MOUSE_BUTTON** - place particles 
 **RIGHT_MOUSE_BUTTON** - delete particles <br>
 **MOUSE_SCROLL** - change size of a brush <br>
 **LEFT**, **RIGHT** - change particle type <br>
